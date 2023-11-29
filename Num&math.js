@@ -1,3 +1,5 @@
 // math and number
 const strNum=400;
-console.log(strNum.toString());
+const num2= strNum.toString();
+console.log(num2.charAt(2));
+const strNum2=new Number(500);
